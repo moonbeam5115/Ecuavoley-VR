@@ -9,10 +9,10 @@ Virtual game of Ecuadorian Style Volleyball known as Ecuavoley. This project was
 
 <p align="center">
 The characters were created using Adobe Fuse. The animations were made using a mixture of Mixamo and Blender.
-Textures have been collected from various open source locations. <br></br>
+Textures have been collected from various open source locations.
 
 <p align="center">
-GUI Elements have been incorporated to help with serving - location, height, and power controls.  
+GUI Elements have been incorporated to help with serving - location, height, and power controls.  <br></br>
 
   <img src="https://github.com/moonbeam5115/Ecuavoley-VR/blob/main/img/serveGIF.gif" width="450">
 </p>
