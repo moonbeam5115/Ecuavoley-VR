@@ -8,8 +8,8 @@ Virtual game of Ecuadorian Style Volleyball known as Ecuavoley. This project was
 
 
 <p align="center">
-The characters were created using Adobe Fuse. The animations were made using a mixture of Mixamo and Blender.  
-Textures have been collected from various open source locations.  
+The characters were created using Adobe Fuse. The animations were made using a mixture of Mixamo and Blender.
+Textures have been collected from various open source locations.
 
 GUI Elements have been incorporated to help with serving - location, height, and power controls.
 
