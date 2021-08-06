@@ -1,0 +1,17 @@
+Library
+obj
+ProjectSettings
+Temp
+UnityPackageManager
+Assembly-CSharp.csproj
+Ecuavoley2019.sln
+Ecuavoley2019.userprefs
+Assets/Audio
+Assets/Objects
+Assets/Scenes
+Assets/Skyboxes
+Assets/Tree1_Textures
+Assets/Tree_Textures
+**.meta
+Assets/*.asset
+Assets/*.prefab
